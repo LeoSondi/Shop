@@ -1,0 +1,18 @@
+// Обнуление
+@import "_nullstyle";
+
+// Шрифты
+@import url("");
+
+// Переменные
+
+// Шаблоны
+%link_bottom {
+}
+
+// Миксины
+@mixin fontz($f) {
+  font-size: $f;
+}
+
+// Стили
