@@ -1,5 +1,3 @@
-<img src="/source/icons/hi-readme.png" alt="img" width="100px"/>
+# <img src="/source/icons/hi-readme.png" alt="img" width="30px"/> Welcome to [Sondi Shop](https://sondishop.ru)!
 
-# Welcome to [Sondi Shop](https://sondishop.ru)
-
-### ![](/source/icons/graduation-cap.png) About
+### ![](/source/icons/info.png) About
